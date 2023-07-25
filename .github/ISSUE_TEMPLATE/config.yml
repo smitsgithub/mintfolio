@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Anything Else
+    url: https://github.com/smitsgithub
+    about: Need any help? Found any bug? Open an issue.
